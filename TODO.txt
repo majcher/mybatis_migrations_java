@@ -1,0 +1,3 @@
+- contexts - can we apply different changes to different environments?
+- change sums - are changes to executed scripts verified?
+- scripts generation - is there a way to generate release/rollback scripts for pending changes only?
